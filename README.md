@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/ritesh975/ritesh975/blob/main/ban.png)
 <h1 align="center">Hi 👋, I'm Ritesh kumar kasaudhan</h1>
 <h3 align="center">A passionate Software Engineer developer from India.</h3>
 <img align="right" alt="Coding"width="450" src="https://img.freepik.com/premium-photo/customizing-virtual-background-vector-flat-style-illustration_1029473-48546.jpg?w=1060">
