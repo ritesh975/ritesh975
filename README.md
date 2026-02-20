@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh975&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh975" /> </p>
 
-- 🌱 I’m currently learning **BCA (Bachelor of Computer Applications)**
+- 🌱 I’m currently learning **MCA (Masters of Computer Applications)**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ritesh-kasaudhan](https://www.linkedin.com/in/ritesh-kasaudhan)
 
