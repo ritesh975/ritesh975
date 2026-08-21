@@ -356,21 +356,6 @@ Responsive weather application displaying real-time weather information using a 
 />
 
 </div>
-
----
-
-# 🏆 GitHub Trophies
-
-<h2>🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-  <img src="profile/trophy.svg"
-    alt="GitHub Trophies"
-    width="100%"/>
-
-</div>
-
 ---
 
 <h2>🐍 GitHub Contribution Snake</h2>
