@@ -1,44 +1,457 @@
-<!--
-**ritesh975/ritesh975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <img
+    src="abc.png"
+    alt="Ritesh Kumar Kasaudhan"
+    width="140"
+  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![logo](https://github.com/ritesh975/ritesh975/blob/main/abc.png)
-<h1 align="center">Hi 👋, I'm Ritesh kumar kasaudhan</h1>
-<h3 align="center">A passionate Software Engineer developer from India.</h3>
-<img align="right" alt="Coding"width="450" src="https://img.freepik.com/premium-photo/customizing-virtual-background-vector-flat-style-illustration_1029473-48546.jpg?w=1060">
+  <h1>Hi, I'm Ritesh Kumar Kasaudhan 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh975&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh975" /> </p>
+  <h3>Data Analyst • Frontend Developer • MCA Student</h3>
 
-- 🌱 I’m currently learning **MCA (Masters of Computer Applications)**
+  <p>
+    <i>Turning data into insights and ideas into interactive web experiences.</i>
+  </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ritesh-kasaudhan](https://www.linkedin.com/in/ritesh-kasaudhan)
+  <!-- Social Badges -->
 
-- 📫 How to reach me **riteshkasaudhan975@gmail.com**
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ritesh-kasaudhan">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
+    </a>
+    <a href="mailto:riteshkasaudhan975@gmail.com">
+      <img
+        src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Gmail"
+      />
+    </a>
+    <a href="https://www.instagram.com/its.ritesh_0005">
+      <img
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        alt="Instagram"
+      />
+    </a>
+    <a href="https://www.hackerrank.com/profile/riteshkasaudhan1">
+      <img
+        src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"
+        alt="HackerRank"
+      />
+    </a>
+  </p>
 
-- ⚡ Fun fact **i am Funny😎🧑‍💻.**
+  <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritesh-kasaudhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritesh-kasaudhan" height="30" width="40" /></a>
-<a href="https://instagram.com/its.ritesh_0005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.ritesh_0005" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/riteshkasaudhan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/riteshkasaudhan1" height="30" width="40" /></a>
+  <img
+    src="https://komarev.com/ghpvc/?username=ritesh975&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+Hi! I'm **Ritesh Kumar Kasaudhan**, an MCA student passionate about **Data Analytics, Frontend Development, and Software Development**.
+
+I enjoy working with data, creating interactive dashboards, building responsive websites, and solving real-world problems using technology.
+
+- 🎓 Pursuing **Master of Computer Applications (MCA)**
+- 📊 Interested in **Data Analytics & Business Intelligence**
+- 🌐 Passionate about **Frontend Development**
+- 🐍 Working with **Python, Pandas & NumPy**
+- 🗄️ Working with **SQL & MySQL**
+- 📈 Creating dashboards using **Power BI & Excel**
+- ⚛️ Learning and building applications with **React**
+- 💡 Interested in real-world problem solving
+- 🤝 Open to internships, collaboration and learning opportunities
+- 🚀 Always learning and building something new
+
+---
+
+# 🛠️ Tech Stack
+
+## 📊 Data Analytics
+
+<p align="center">
+
+<a href="https://www.python.org/">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  width="50"
+  height="50"
+  alt="Python"
+/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+  width="50"
+  height="50"
+  alt="Pandas"
+/>
+</a>
+
+<a href="https://numpy.org/">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+  width="50"
+  height="50"
+  alt="NumPy"
+/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+  width="50"
+  height="50"
+  alt="MySQL"
+/>
+</a>
+
+<a href="https://jupyter.org/">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+  width="50"
+  height="50"
+  alt="Jupyter"
+/>
+</a>
+
+<a href="https://matplotlib.org/">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+  width="50"
+  height="50"
+  alt="Matplotlib"
+/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<p align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh975&show_icons=true&locale=en&layout=compact" alt="ritesh975" /></p>
+<b>Python</b> •
+<b>Pandas</b> •
+<b>NumPy</b> •
+<b>SQL</b> •
+<b>MySQL</b> •
+<b>Excel</b> •
+<b>Power BI</b> •
+<b>EDA</b> •
+<b>Data Visualization</b>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritesh975&show_icons=true&locale=en" alt="ritesh975" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh975&" alt="ritesh975" /></p>
+---
+
+## 🌐 Frontend Development
+
+<p align="center">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  width="50"
+  height="50"
+  alt="HTML5"
+/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  width="50"
+  height="50"
+  alt="CSS3"
+/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  width="50"
+  height="50"
+  alt="JavaScript"
+/>
+</a>
+
+<a href="https://react.dev/">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+  width="50"
+  height="50"
+  alt="React"
+/>
+</a>
+
+</p>
+
+<p align="center">
+
+<b>HTML5</b> •
+<b>CSS3</b> •
+<b>JavaScript</b> •
+<b>React</b> •
+<b>Responsive Web Design</b>
+
+</p>
+
+---
+
+## 💻 Programming & Tools
+
+<p align="center">
+
+<a href="https://isocpp.org/">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+  width="50"
+  height="50"
+  alt="C"
+/>
+</a>
+
+<a href="https://isocpp.org/">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+  width="50"
+  height="50"
+  alt="C++"
+/>
+</a>
+
+<a href="https://www.java.com/">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+  width="50"
+  height="50"
+  alt="Java"
+/>
+</a>
+
+<a href="https://git-scm.com/">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  width="50"
+  height="50"
+  alt="Git"
+/>
+</a>
+
+<a href="https://github.com/">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+  width="50"
+  height="50"
+  alt="GitHub"
+/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+  width="50"
+  height="50"
+  alt="VS Code"
+/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Bank Loan Default Risk Analysis
+
+Analyzed loan application data to identify default patterns, customer risk factors and important business KPIs.
+
+**Technologies**
+
+`Python` `Pandas` `SQL` `Power BI` `Excel`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚗 Car Price Prediction
+
+Machine Learning project that predicts car prices using regression techniques and data preprocessing.
+
+**Technologies**
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📈 Superstore Sales Dashboard
+
+Interactive Power BI dashboard for analyzing sales, profit, customers, products and important business KPIs.
+
+**Technologies**
+
+`Power BI` `Excel` `Data Visualization`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌦️ Weather Application
+
+Responsive weather application displaying real-time weather information using a weather API.
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript` `API`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ritesh975&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  height="180"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh975&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="180"
+  alt="Top Languages"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=ritesh975&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=ritesh975&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+  alt="GitHub Trophies"
+/>
+
+</div>
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ritesh975/ritesh975/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ritesh975/ritesh975/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ritesh975/ritesh975/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+
+</picture>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<p>
+  <strong>
+    I'm open to internships, collaboration and exciting opportunities.
+  </strong>
+</p>
+
+<p>
+
+<a href="https://www.linkedin.com/in/ritesh-kasaudhan">
+<img
+  src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
+</a>
+
+<a href="mailto:riteshkasaudhan975@gmail.com">
+<img
+  src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Gmail"
+/>
+</a>
+
+<a href="https://www.instagram.com/its.ritesh_0005">
+<img
+  src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+  alt="Instagram"
+/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/riteshkasaudhan1">
+<img
+  src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"
+  alt="HackerRank"
+/>
+</a>
+
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Learn • Build • Analyze • Improve • Repeat 🚀"
+
+<br>
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+</div>
