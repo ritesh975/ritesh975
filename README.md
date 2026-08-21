@@ -339,8 +339,7 @@ Responsive weather application displaying real-time weather information using a 
   alt="GitHub Statistics"
 />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh975&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh975&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   height="180"
   alt="Top Languages"
 />
@@ -349,10 +348,10 @@ Responsive weather application displaying real-time weather information using a 
 
 <br>
 
+
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=ritesh975&theme=tokyonight&hide_border=true"
+<img src="https://streak-stats.demolab.com?user=ritesh975&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
 
@@ -362,40 +361,30 @@ Responsive weather application displaying real-time weather information using a 
 
 # 🏆 GitHub Trophies
 
+<h2>🏆 GitHub Trophies</h2>
+
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=ritesh975&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-  alt="GitHub Trophies"
-/>
+  <img src="profile/trophy.svg"
+    alt="GitHub Trophies"
+    width="100%"/>
 
 </div>
 
 ---
 
-# 🐍 GitHub Contribution Snake
+<h2>🐍 GitHub Contribution Snake</h2>
 
 <div align="center">
 
-<picture>
+  <h2>🐍 GitHub Contribution Snake</h2>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ritesh975/ritesh975/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ritesh975/ritesh975/output/github-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/ritesh975/ritesh975/output/github-snake.svg"
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ritesh975/ritesh975/output/github-snake.svg"
     alt="GitHub Contribution Snake"
+    width="100%"
   />
-
-</picture>
-
+</p>
 </div>
 
 ---
